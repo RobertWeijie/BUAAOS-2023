@@ -1,3 +1,3 @@
 # BUAAOS
 buaa来华留学生
-foreign student in BUAA
+操作系统实验
